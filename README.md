@@ -1,1 +1,1 @@
-# sql-challenge
+This GitHub repository features a database task with an ER diagram, meticulous table schemas, and detailed data engineering. SQL queries offer insights into employee details, hire dates, department managers, and more, providing a comprehensive overview for users.
